@@ -1,0 +1,15 @@
+<package>
+  <description brief="sonarreader">
+
+     sonarreader
+
+  </description>
+  <author>Sai Vemprala</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/sonarreader</url>
+<depend package="package_name" />
+
+</package>
+
+

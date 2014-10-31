@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sai/ros_ws/sonarreader/build/devel/setup.sh
